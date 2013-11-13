@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-TestRuby::Application.config.secret_key_base = '1a44e6c4d8024374bcc1430e4f83810cf1bef25df36e6cb503d7904edcaa0e1998e7c60cd9b5682a39597fdb003dd9f42bce6f15547a8db61426f72f560d725d'
+TestRuby::Application.config.secret_key_base = '4b93ba8b840c047ffba3f58d8aa888efe71cf120d6ae3cf87ede579e766995344e6ebe1e1dc53ee84c0770a45fa06745c5cc475ace29c3597dc2fb70b3d7913e'
